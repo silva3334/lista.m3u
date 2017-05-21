@@ -12,6 +12,11 @@
 http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-p.m3u8?sd=10&rebase=on
 
 
+#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/sbt.png" group-title="Brasil",sbt
+http://www.tvonline.org/players/hls.php?id=http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="Brasil",tv-cultura
 http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w454369471.m3u8
 
