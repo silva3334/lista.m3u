@@ -526,6 +526,15 @@ http://atcdn2.vidgyor.com/at-origin/desktoplive/playlist.m3u8?wmsAuthSign=c2Vydm
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dbb7a5a7ae41715c70ee6e29f433cc38.jpg" group-title="India",tv-Super Tv
 http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fbf5f38bfb77a03e4d87ffae2208f30b.png" group-title="India",tv-Asianet News
+http://vidgyorliv.vo.llnwd.net/asianet-origin/liveabr/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/cf59285f56870cfb47c1ca94e2f6c600.png" group-title="India",tv-Sakshi TV
+http://sakshi.live-s.cdn.bitgravity.com/cdn-live/_definst_/sakshi/live/new_feed01/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="India",tv-Thanthi TV
+http://thanthitv.live-s.cdn.bitgravity.com/cdn-live/_definst_/thanthitv/live/thanthitv.smil/playlist.m3u8
+
 
 
 
