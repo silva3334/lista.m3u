@@ -517,6 +517,16 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 
 
 
+###########################################################India##########################################
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/India.jpg" group-title="India",
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70a5e63832e9fcaf7c118ac5ccb27c48.png" group-title="India",Aaj Tak
+http://atcdn2.vidgyor.com/at-origin/desktoplive/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE3IDE6MzA6MDIgUE0maGFzaF92YWx1ZT1IeWFtb2JhdFdEVWtwL1lkVWFPWTh3PT0mdmFsaWRtaW51dGVzPTkwJmlkPTE0OTUzNzM0MDI=
+
+
+
+
+
 
 
 #EXTINF:-1 tvg-logo="" group-title="",tv-
