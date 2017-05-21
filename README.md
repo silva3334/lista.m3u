@@ -585,9 +585,10 @@ http://thanthitv.live-s.cdn.bitgravity.com/cdn-live/_definst_/thanthitv/live/tha
 
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Italia.jpg"Italia",TV- 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Italia.jpg"Italia",
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg"Italia",TV-RAI Movie
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" group-title="Italia",tv-rai movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
  
 
