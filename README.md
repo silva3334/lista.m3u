@@ -11,7 +11,8 @@ http://188.166.80.6/loadbalance2/hbo-2/playlist.m3u8?pxAuth=ei0v0UMTLT4FBezGyf7b
 
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/hbofamily.png" group-title="net",HBOfamile
-http://138.197.106.162/stream/xMMtsJBQEP7x18fdj3iKbRvPFycW2wXz.m3u8
+http://138.197.106.162/loadbalance2/hbofamily/chunks.m3u8?pxAuth=Ro60cF89r0n2EGqsnryCVrF3euxpROI1
+
 
 
 
