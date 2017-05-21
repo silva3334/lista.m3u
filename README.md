@@ -590,6 +590,65 @@ http://thanthitv.live-s.cdn.bitgravity.com/cdn-live/_definst_/thanthitv/live/tha
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg" group-title="Italia",tv-rai movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1dd08ff2959bb19209a7a49b72765d53.png"Italia",TV- History Lab
+http://wma10.fluidstream.net/HistoryLab/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4e851ca2b716689cbe0da5f7e2105768.png"Italia",TV-Sky TG24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/420da34a4240f2e5034e134dfb1bd001.jpg"Italia",TV-Canale 7
+http://wms.shared.streamshow.it:1935/canale7/canale7/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4d3c2d05eb54728dc5ca82cd0ccda98e.png"Italia",TV-Canale 10
+rtmp://37.187.142.147:1935/ch10live playpath=high.stream  swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf  pageUrl=http://www.cxtv.com.br/tv-ao-
+
+vivo/canale-10-italy
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4850f3a4ceccc09a8ecbfb492473870f.png"Italia",TV-RAI NEWS 24
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_750_av-b.m3u8?sd=10&rebase=on 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/611ae611b010220195e8f8f2790a9a1a.jpg"Italia",TV-Napoli Canale 21
+http://live.kronopress.com:1935/canale21_live/canale21/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0423a594d67e12d6b4ad1da41bd3fcbb.png"Italia",TV-FOR MUSIC TV
+rtmp://sb.top-ix.org:1935/quartaretetv playpath=formusicweb  swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf  pageUrl=http://www.cxtv.com.br/tv-
+
+ao-vivo/for-music-tv
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/46eca0562fb93811ff071ef5c4588bad.jpg"Italia",TV-RAI 5
+http://originstream12.rai.it/live/smil:rai5.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d1bcb564c8f746211e222aee76848e33.png"Italia",TV-ETV Marche
+http://live.kronopress.com:1935/etvmarche_live/etvmarche/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/3be22a27a0123eabc4717396042f9217.png"Italia",TV-Radio Monte Carlo TV
+http://fms.105.net:1935/live/rmc1/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/30a38c302dd52510768cd84f7370d9b7.png"Italia",TV-Cielo TV
+http://swow1.blogtimedia.com:1935/cielotv/myStream.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4ae4b82e71a6a378d818480b893f204d.jpg"Italia",TV-Fano TV
+rtmp://live.streamcaster.net:1935/live playpath=fanotv  swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf  pageUrl=http://www.cxtv.com.br/tv-ao-vivo/fano-tv
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/44c51b27ba68ee3fa89002a99b34c9e0.png"Italia",TV-Teleticino
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/fa0abc2faa8ff99fecf5f9d1ecd2e5bc.png"Italia",TV-Tele Arena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bb459e86c1b165bcfae6fbeaf41820d1.png"Italia",TV-Tele Diogene
+http://wms.shared.streamshow.it:1935/telediogene/telediogene/live.m3u8
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/5ce895e4baeac0559a672b10a5df51ee.png"Italia",TV-TV Luna
+rtmp://live.streamcaster.net:1935/test_live playpath=teleluna  swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf   
+
+pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-luna
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/aaf16e82bf2bad9c21f337a0ae658eb6.png"Italia",TV-Tv Quartarete
+rtmp://sb.top-ix.org:1935/quartaretetv playpath=quartareteweb  swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf   
+
+pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-quartarete
  
 
 
