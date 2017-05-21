@@ -580,21 +580,20 @@ http://sakshi.live-s.cdn.bitgravity.com/cdn-live/_definst_/sakshi/live/new_feed0
 http://thanthitv.live-s.cdn.bitgravity.com/cdn-live/_definst_/thanthitv/live/thanthitv.smil/playlist.m3u8
 
 
+########################Italia
 
 
 
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Italia.jpg"Italia",TV- 
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/1d40c5df4382948baeb49aa7d953126b.jpg"Italia",TV-RAI Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+ 
 
 
-#EXTINF:-1 tvg-logo="" group-title="",tv-
 
-#EXTINF:-1 tvg-logo="" group-title="",tv-
 
-#EXTINF:-1 tvg-logo="" group-title="",tv-
-
-#EXTINF:-1 tvg-logo="" group-title="",tv-
-
-#EXTINF:-1 tvg-logo="" group-title="",tv-
 
 
 
