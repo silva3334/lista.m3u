@@ -22,7 +22,8 @@ http://188.166.80.6/loadbalance/bobsp/loadbalance/slv9_240p/chunks.m3u8?pxAuth=0
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5f5c341b86d5004328e7f882034a0a0.png" group-title="Brasil",tv-globo sp
-http://104.236.147.62/loadbalance/bobsp/loadbalance/slv9_480p/l_332362_50569494_1277.ts?7d62fd04-ed3b-404d-88fa-60944dce7551
+http://138.197.106.165/loadbalance/bobsp/loadbalance/slv9_480p/chunks.m3u8?pxAuth=v5mBDFJlKS7zf9gMr62kjDu4oprgR5uN
+
 
 
 
