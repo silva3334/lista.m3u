@@ -15,6 +15,11 @@ http://165.227.0.203/loadbalance2/hbofamily/chunks.m3u8?pxAuth=UodpeFiaDBPzHlAvV
 
 
 
+#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/telecinepremium.png" group-title="net",telecine premium
+http://165.227.0.107/loadbalance2/telecinepremium/chunks.m3u8?pxAuth=uxG87UwEtdJvnLEPa3aftUQmmllzkdyz
+
+
+
 
 
 
