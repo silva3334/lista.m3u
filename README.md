@@ -523,6 +523,10 @@ http://esioslive6-i.akamaihd.net/hls/live/202892/AL_P_ESP1_FR_FRA/playlist_1800.
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/70a5e63832e9fcaf7c118ac5ccb27c48.png" group-title="India",Aaj Tak
 http://atcdn2.vidgyor.com/at-origin/desktoplive/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8yMS8yMDE3IDE6MzA6MDIgUE0maGFzaF92YWx1ZT1IeWFtb2JhdFdEVWtwL1lkVWFPWTh3PT0mdmFsaWRtaW51dGVzPTkwJmlkPTE0OTUzNzM0MDI=
 
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dbb7a5a7ae41715c70ee6e29f433cc38.jpg" group-title="India",tv-Super Tv
+http://supertvcloud.purplestream.in/supertvorg/ngrp:supertv_all/playlist.m3u8
+
+
 
 
 
