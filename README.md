@@ -6,16 +6,16 @@
 #########################Net pagos
 
 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/hbo2.png" group-title="net",HBO2
+#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/hbo2.png" group-title="net",tv-HBO2
 http://188.166.80.6/loadbalance2/hbo-2/playlist.m3u8?pxAuth=ei0v0UMTLT4FBezGyf7bAwPiZkUULz7u
 
 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/hbofamily.png" group-title="net",HBOfamile
+#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/hbofamily.png" group-title="net",tv-HBOfamile
 http://165.227.0.203/loadbalance2/hbofamily/chunks.m3u8?pxAuth=UodpeFiaDBPzHlAvVZUE9FFd8mUd257r
 
 
 
-#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/telecinepremium.png" group-title="net",telecine premium
+#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/telecinepremium.png" group-title="net",tv-telecine premium
 http://165.227.0.107/loadbalance2/telecinepremium/chunks.m3u8?pxAuth=uxG87UwEtdJvnLEPa3aftUQmmllzkdyz
 
 
