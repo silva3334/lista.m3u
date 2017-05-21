@@ -455,7 +455,6 @@ http://bitcdn-kronehit-live.bitmovin.com/hls/250k/bitcodin.m3u8
 http://canal2-live-p-cdn.hexaglobe.net/e2d39a80c467327b3cd51557ff10d1e5/591dbe95/canal2intepri_fre.smil/playlist.m3u8
 
 
-
 ########################Canada
 
 
@@ -473,7 +472,6 @@ http://bcoveliveios-i.akamaihd.net/hls/live/248519/1242843915001_1/master.m3u8
 http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 
 #######################
-
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Qatar.jpg" group-title="Catar",
@@ -496,8 +494,6 @@ http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/300.m3u8
 
 
 
-
-
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/ccb84984fe8e7f7d3a37cb624a4464bb.png" group-title="Colombia",tv-Cali TV
 http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 
@@ -505,13 +501,7 @@ http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
 http://190.248.81.11:1938/live/myStream22/playlist.m3u8
 
 
-
-
 ###################frança
-
-
-
-
 
 
 
@@ -649,7 +639,67 @@ pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-luna
 rtmp://sb.top-ix.org:1935/quartaretetv playpath=quartareteweb  swfUrl=http://releases.flowplayer.org/7.0.3/commercial/flowplayer.swf   
 
 pageUrl=http://www.cxtv.com.br/tv-ao-vivo/tv-quartarete
- 
+
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0f1e9471a4b4d5074c373406e8bb8db2.jpg"Italia",TV-brescia
+http://wms.shared.streamshow.it:1935/videobrescia/videobrescia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e3eca64beb615ab393e75f5c9329f755.png"Italia",TV-TV Videolina
+http://178.33.229.111:1935/live/Videolina/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/bbbc92923f0828f0e3cb3f9fa8b59a0e.jpg"Italia",TV-RTV38
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/01f8ba1645918c06bcb96934cde2f7b8.png"Italia",TV-Siena Tv
+http://wz1.newradio.it/elena831/elena831/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/833cdfb4d495ca732ecbb33af91bad0c.png"Italia",TV-Tele Pavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6ec34046ce1ffebfcbe5657c8c3c0c0e.png"Italia",TV-Tele Studio Modena
+http://wms.shared.streamshow.it:1935/telestudiomo/telestudiomo/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/d6ecfee4858d09e25d2b30772375e384.png"Italia",TV-TRM TV
+http://flash.streamingmedia.it:1935/TRM/livestream/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a1406790298f45c21b43c3afa1d9318b.png"Italia",TV-Super Tv
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a750ab558313e0007a5899a359ac16fd.jpg"Italia",TV-Alto Adige
+http://77.72.196.214:8554/live/AltoAdigeTV/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/f021096818ef0dcb3607931f07f7a7d6.png"Italia",TV-Sardegna Uno
+http://wms.shared.streamshow.it/sardegnauno/mp4:sardegnauno/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/88200166ed8168b662360f0990a5cc7a.jpg"Italia",TV-Tele Milano
+http://91.121.222.160:1935/piublu/piublu.sdp/live.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/6c0c7bdcd956e3cb6870a4345e442e3a.jpg"Italia",TV-Trentino Tv
+http://77.72.196.214:8554/live/TrentinoTV/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/4d80d2bc4319364c0e3cd3f08b8dc699.jpg"Italia",TV-Radio 105 Tv
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/89275382f1e42317106ebfc7f3957e4f.jpg"Italia",TV-Visual Radio Tv
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c128d72377e728f2a8bda83f7bdb5d26.jpg"Italia",TV-OTTO FM TV
+http://live.youiptv.ch:1935/8FM/8FM/livestream.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/266041f23bab0c1e692e8ae35530bdb2.jpg"Italia",TV-La7
+http://la7livehls-lh.akamaihd.net/i/livebkup_1@372883/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/eb1a6905925bc96ac517f0d7f5d1e438.png"Italia",TV-m2o
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/0869f7ddfb8cc775b2f87a6b2473d9c9.png"Italia",TV-Radionorba TV
+http://85.17.80.132/radionorbatv/norbatv_source.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/2c7e2fee324cffc2508942f05af8cc92.png"Italia",TV-Rádio Taormina
+http://flash5.streaming.xdevel.com/taorminatv/taorminatv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/e41a2384d993e941e95da2278bc6951c.png"Italia",TV-Mecenate Tv
+http://flash7.streaming.xdevel.com/mecenatetv/mecenatetv/playlist.m3u8
 
 
 
