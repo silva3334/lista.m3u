@@ -17,7 +17,8 @@ http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w454369471.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5f5c341b86d5004328e7f882034a0a0.png" group-title="Brasil",tv-globo
-http://95.141.32.136:8081/look/sptv/chunks.m3u8?nimblesessionid=1339367
+http://188.166.80.6/loadbalance/bobsp/loadbalance/slv9_240p/chunks.m3u8?pxAuth=0vR7ximuiwv33N8KFfljAJIyk7ne1DmF
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5f5c341b86d5004328e7f882034a0a0.png" group-title="Brasil",tv-globo sp
