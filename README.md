@@ -3,7 +3,11 @@
 
 
 #EXTM3U
+#########################Net pagos
 
+
+#EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/hbo2.png" group-title="net",HBO2
+http://188.166.80.6/loadbalance2/hbo-2/playlist.m3u8?pxAuth=ei0v0UMTLT4FBezGyf7bAwPiZkUULz7u
 
 ###########################################################Brasil##################################################################################
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Brasil.jpg" group-title="Brasil",
