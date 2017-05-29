@@ -29,6 +29,7 @@ http://198.199.80.96/loadbalance/telecinepipoca/chunks.m3u8?pxAuth=UId01A5UcHJMO
 
 
 
+
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/tcfun.png" group-title="net",tv-telecine fun
 http://207.154.243.105/loadbalance2/telecinepipoca/chunks.m3u8?pxAuth=Fgy37VuSbNRCxgXts093Je3kPqLf0P1j
 
