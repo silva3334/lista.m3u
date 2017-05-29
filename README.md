@@ -25,7 +25,8 @@ http://198.199.80.96/loadbalance/telecineaction/chunks.m3u8?pxAuth=7MALEFfPulMgf
 
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/tcpipoca.png" group-title="net",tv-telecine pipoca
-http://198.199.80.96/loadbalance/telecinepipoca/chunks.m3u8?pxAuth=UId01A5UcHJMORouU0VdEQr2i8VnUizl
+http://198.199.69.237/stream/z2cnUSF7TRC0vKqbXRE5grGgc22vd0VF.m3u8
+
 
 
 
