@@ -17,6 +17,7 @@ http://165.227.0.203/loadbalance2/hbofamily/chunks.m3u8?pxAuth=UodpeFiaDBPzHlAvV
 http://198.199.69.237/loadbalance/telecinepremium/chunks.m3u8?pxAuth=Y1lzxA7v3x9dbvzQXfHfVCwptC9JuUc8
 
 
+
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/telecineaction.png" group-title="net",tv-telecine action
 http://198.199.80.96/stream/iMoYHQFbH4Rxoa54pYTJT8CNR0UMUNpB.m3u8
 
