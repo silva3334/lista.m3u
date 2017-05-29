@@ -18,13 +18,9 @@ http://162.243.82.242/loadbalance/telecinepremium/playlist.m3u8?pxAuth=7zM5psM3h
 
 
 
-
-
-
-
-
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/telecineaction.png" group-title="net",tv-telecine action
-http://198.199.80.96/stream/iMoYHQFbH4Rxoa54pYTJT8CNR0UMUNpB.m3u8
+http://162.243.82.242/loadbalance/telecinepremium/chunks.m3u8?pxAuth=7zM5psM3hbBih1kN8lXXSiPWblOGzDs3
+
 
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/tcpipoca.png" group-title="net",tv-telecine pipoca
