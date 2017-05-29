@@ -14,7 +14,7 @@ http://188.166.80.6/loadbalance2/hbo-2/playlist.m3u8?pxAuth=ei0v0UMTLT4FBezGyf7b
 http://165.227.0.203/loadbalance2/hbofamily/chunks.m3u8?pxAuth=UodpeFiaDBPzHlAvVZUE9FFd8mUd257r
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/telecinepremium.png" group-title="net",tv-telecine premium
-http://138.197.168.78/stream/USfbwi6WGeuWIjkSfcDlh544iKxBwumv.m3u8
+http://67.205.145.177/stream/lp3dbM2MKvwx3G0Nwo0RA3pVnLn1TJtr.m3u8
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/telecineaction.png" group-title="net",tv-telecine action
 http://198.199.80.96/stream/iMoYHQFbH4Rxoa54pYTJT8CNR0UMUNpB.m3u8
