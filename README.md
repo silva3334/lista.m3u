@@ -3,8 +3,12 @@
 
 
 #EXTM3U
-#########################Net pagos
+#########################news investimentos
+#EXTINF:-1 tvg-logo="http://images.infomoney.com.br/portal/imtv/logotipo.png?v=2" group-title="news invest",
+http://stream-06.dc3.dailymotion.com/02/dm/1/x4kqewq/live.isml/events(live-1496143796)/live-audio=128000-video=1260000.m3u8
 
+
+#########################Net pagos
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/hbo2.png" group-title="net",tv-HBO2
 http://188.166.80.6/loadbalance2/hbo-2/playlist.m3u8?pxAuth=ei0v0UMTLT4FBezGyf7bAwPiZkUULz7u
