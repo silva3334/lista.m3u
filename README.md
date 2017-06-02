@@ -45,7 +45,8 @@ http://207.154.253.243/stream/L6eeFOR8v13v0C2hzr3n9IlcriJEVnwW.m3u8
 
 
 
-
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/ecea2f1668efe9ca549bf042ea8d02d7.jpg" group-title="net",tv-Anime
+http://proxy-01.nyc.dailymotion.com/sec(5ad4e32cb9b24fd646cd022c94d258a7)/video/483/294/294492384_mp4_h264_aac_ld_1.m3u8
 
 
 
@@ -56,6 +57,9 @@ http://207.154.253.243/stream/L6eeFOR8v13v0C2hzr3n9IlcriJEVnwW.m3u8
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/40ea385907dcc18f88eba996b1e814e8.png" group-title="Brasil",TV Record
 http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-p.m3u8?sd=10&rebase=on
+
+
+
 
 
 
