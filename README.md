@@ -122,16 +122,10 @@ http://cdn.srv.br:8088/UCSTV/UCSTV/playlist.m3u8
 http://v1.fabricahost.com.br:1935/tvguara/tvguara/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b68dd398389ddf84ac382685885a2b92.png" group-title="Brasil",tv-mix
-http://abr.mixtv.upx.net.br/1352/myStream.sdp/chunklist_w1640294656.m3u8
-
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/9db393c3531f10b525f8af8a9d75f0ad.png" group-title="Brasil",tv-rbt
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/df7c0177a0c044fe0eefb3016a3ff52a.jpg" group-title="Brasil",tv-canal rural
-http://www.cxtv.com.br/tv-ao-vivo/canal-rural
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c367dd0923ebf8b79a9b3dd3f4c3f443.png" group-title="Brasil",tv-escola
 http://slbps-sambavideos.akamaized.net/liveevent/acerpTvEscolaABR_1f9a5d00db56b3c3020b6ac3dd693e12/livestream3/chunklist.m3u8
