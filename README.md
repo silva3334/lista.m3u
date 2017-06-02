@@ -48,7 +48,8 @@ http://207.154.253.243/stream/L6eeFOR8v13v0C2hzr3n9IlcriJEVnwW.m3u8
 #EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/ecea2f1668efe9ca549bf042ea8d02d7.jpg" group-title="net",tv-Anime
 http://proxy-01.nyc.dailymotion.com/sec(5ad4e32cb9b24fd646cd022c94d258a7)/video/483/294/294492384_mp4_h264_aac_ld_1.m3u8
 
-
+#EXTINF:-1 tvg-logo="http://vertvonline.gratis/imagens/upload/prog/05a60cd9dd69cfe2450c1d8bccdcaaa4.jpg" group-title="net",tv-FISH TV
+http://streamingbr.com.br:1935/st87-live/st87-live_720p/chunklist_w945535542.m3u8
 
 
 
