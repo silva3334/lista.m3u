@@ -132,11 +132,8 @@ http://slbps-sambavideos.akamaized.net/liveevent/acerpTvEscolaABR_1f9a5d00db56b3
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/a9342ed0db711b912d1bef3ab86586f9.jpg" group-title="Brasil",tv-terra viva
-http://evcv.mm.uol.com.br:1935/band/terraviva/chunklist_w1048472892.m3u8
+http://evcv.mm.uol.com.br:1935/band/terraviva/chunklist_w920796767.m3u8
 
-
-#EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/12e830d7aa5f6b9387d55c4120be6324.png" group-title="Brasil",tv-rit
-http://flash1.crossdigital.com.br:1935/ponto79/ongrace/chunklist_w1124847040.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c008e7013bb79729c069c521a142bf7e.jpg" group-title="Brasil",tv-canÇão nova
@@ -159,7 +156,8 @@ http://srv9.zoeweb.tv:1935/zw901/zw901.smil/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c2ed93c16e39753a9f345e41c4ae56f3.jpg" group-title="Brasil",tv-nova nordeste
-http://cdn-br-002938543.comets.com.br/tvnovanordeste/aovivo/chunklist.m3u8
+http://67149o.ha.azioncdn.net/hlsmedium/playlist.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/7a28d15a24572385ae9b19bd57e69372.jpg" group-title="Brasil",tv-aparecida
