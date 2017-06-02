@@ -65,7 +65,7 @@ http://calertahls-lh.akamaihd.net/i/calertahls_1@167570/index_480_av-p.m3u8?sd=1
 
 
 #EXTINF:-1 tvg-logo="http://tvonlinegratis1.com/wp-content/uploads/2016/10/sbt.png" group-title="Brasil",sbt
-http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/live.m3u8
+http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660470/livestream2/chunklist.m3u8
 
 
 
