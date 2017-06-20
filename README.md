@@ -407,7 +407,10 @@ http://au.download.windowsupdate.com/d/msdownload/update/software/secu/2016/04/w
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/assets/img/flags/Alemanha.jpg" group-title="Alemanha",
 
-
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/zmdytk.jpg",DW 2
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_4_av-p.m3u8
+#EXTINF:-1 tvg-logo="http://oi67.tinypic.com/zmdytk.jpg",DW 4
+http://dwstream5-lh.akamaihd.net/i/dwstream5_live@124540/index_4_av-p.m3u8
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/103bfce4ad48964094efa40d8175cb43.png" group-title="Alemanha"tv-,dw latino	
