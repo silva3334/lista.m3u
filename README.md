@@ -494,7 +494,8 @@ http://tva_chaine_uls-lh.akamaihd.net/i/chaine_tva_1@125892/master.m3u8
 http://199.167.151.237/live/sp15_13.stream/gmswf.m3u8?v=3205596893
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/66b46a727f08c6590ada33695da14666.png" group-title="Catar",tv-Al Jazeera Kids
-http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/stream1/masterPlaylist.m3u8
+http://199.167.151.237/live/sp15_13.stream/chunklist_w1110818956.m3u8?v=3205596893
+
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/85e0594ad952a42723bed7bfb06c04c7.png" group-title="Catar",tv-Al Jazeera Doc
 http://aljazeera-doc-apple-live.adaptive.level3.net/apple/aljazeera/doc/300.m3u8
