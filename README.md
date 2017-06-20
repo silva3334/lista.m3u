@@ -71,7 +71,8 @@ http://gbbrlive2.sambatech.com.br/liveevent/sbtabr_8fcdc5f0f8df8d4de56b22a2c6660
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/22569837b28e1133dd753408311d14ef.jpg" group-title="Brasil",tv-cultura
-http://173.236.10.10:1935/redeatividade/redeatividade/chunklist_w454369471.m3u8
+http://177.73.84.49/hls/live/live.m3u8
+
 
 
 #EXTINF:-1 tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/c5f5c341b86d5004328e7f882034a0a0.png" group-title="Brasil",tv-globo
